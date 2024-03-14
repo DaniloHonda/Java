@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        Aluno aluno = new Aluno();
+        Aluno aluno = new Aluno(); // Aluno novo
 
         boolean loop = true;
         while (loop) {
